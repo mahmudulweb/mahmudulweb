@@ -12,7 +12,7 @@ I’m also skilled in HTML, CSS, JavaScript, and Elementor page design, ensuring
 
 💡 Let’s build something amazing together!
 
-Skills: 
+### Skills: </br>
 ✅ WordPress Website Design 
 ✅ Shopify Store Development 
 ✅ Responsive Front-End Design (HTML, CSS, JS) 
