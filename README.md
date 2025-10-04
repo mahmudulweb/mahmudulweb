@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Mahmudul!
 #### Professional Web Developer | WordPress & Shopify Expert
-![Professional Web Developer | WordPress & Shopify Expert](https://raw.githubusercontent.com/mahmudulweb/assets/refs/heads/main/Mahmudulweb.png)
+![Professional Web Developer | WordPress & Shopify Expert](https://github.com/mahmudulweb/assets/blob/main/mahmudulweb_bannar.png)
 
 I’m a dedicated Web Developer with hands-on experience in WordPress and Shopify.
 Over the past 4 years, I’ve worked with global clients on Fiverr and Upwork, building websites that are not only visually appealing but also SEO-optimized and high-performing.
