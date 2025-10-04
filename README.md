@@ -13,12 +13,12 @@ I’m also skilled in HTML, CSS, JavaScript, and Elementor page design, ensuring
 💡 Let’s build something amazing together!
 
 ### Skills: </br>
-✅ WordPress Website Design 
-✅ Shopify Store Development 
-✅ Responsive Front-End Design (HTML, CSS, JS) 
-✅ SEO Optimization & Speed Performance 
-✅ Bug Fixing & Maintenance 
-✅ Elementor & WooCommerce
+✅ WordPress Website Design </br>
+✅ Shopify Store Development </br>
+✅ Responsive Front-End Design (HTML, CSS, JS) </br>
+✅ SEO Optimization & Speed Performance </br>
+✅ Bug Fixing & Maintenance </br>
+✅ Elementor & WooCommerce</br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mahmudulweb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mahmudul-hasan-82b3191b4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/users/proficient489)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~0161934be3f1c3631c?mp_source=share)  
 
