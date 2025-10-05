@@ -30,5 +30,5 @@ I’m also skilled in HTML, CSS, JavaScript, and Elementor page design, ensuring
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
 
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudulweb&show_icons=true&locale=en" alt="mahmudulweb" /></p>
 
